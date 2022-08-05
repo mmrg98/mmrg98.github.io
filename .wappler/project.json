@@ -1,0 +1,32 @@
+{
+  "projectName": "mmrg",
+  "styleFile": "/css/style.css",
+  "assetsFolder": "/assets",
+  "designFramework": "bootstrap5",
+  "frameworks": [
+    {
+      "name": "fontawesome_5",
+      "type": "cdn"
+    },
+    {
+      "name": "bootstrap5",
+      "type": "local"
+    },
+    {
+      "name": "appConnect",
+      "type": "local"
+    }
+  ],
+  "runtime": "capacitor",
+  "projectType": "web",
+  "activeGitRemote": "mmrg98.github.io",
+  "addBase": true,
+  "targets": [
+    {
+      "name": "Development",
+      "remoteURL": "http://localhost:3000/",
+      "access": "local"
+    }
+  ],
+  "activeTarget": "Development"
+}
