@@ -268,7 +268,7 @@
 
 })()
 
-$('#downloadResume').click(function (e) {
+/*$('#downloadResume').click(function (e) {
     e.preventDefault();  //stop the browser from following
     window.location.href = 'resume/Mariam_Elgaria_Resume_4ag22.pdf';
-});
+});*/
